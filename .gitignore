@@ -1,0 +1,30 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.cache
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Logs
+*.log
+
+# Auto-generated files
+*.tlog
+*.ipch
+*.pdb
+*.ilk
+
+# Backup files
+*.bak
+*.tmp
+
+# Others
+*.dbmdl
+*.opendb
